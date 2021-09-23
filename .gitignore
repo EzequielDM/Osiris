@@ -334,3 +334,7 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+build/CMakeFiles/cmake.check_cache
+build/CMakeCache.txt
+.vscode/c_cpp_properties.json
+build/.cmake/api/v1/query/client-vscode/query.json
